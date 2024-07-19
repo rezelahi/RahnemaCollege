@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.current {
+  background-color: #ddd;
+}
+
+.allTrue {
+  color: rgb(74 222 128);
+}
+
+.allFalse {
+  color: rgb(239 68 68);
+}
+
+.false {
+  background-color: rgb(239 68 68);
+}
