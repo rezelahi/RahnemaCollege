@@ -141,7 +141,7 @@ function App() {
   };
   return (
     <div className="bg-gradient-to-r from-violet-600 to-indigo-600 h-lvh">
-      <div className="mx-auto pt-20 w-[800px] flex flex-col justify-center items-center gap-3">
+      <div className="mx-auto pt-20 w-4/5 flex flex-col justify-center items-center gap-3">
         <div className="flex flex-col gap-3 w-full">
           {!inputDisabled && (
             <Words
